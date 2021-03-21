@@ -1,0 +1,77 @@
+@charset "utf-8";
+body
+{
+	background-image:url(images/a.jpg);
+	margin:0px;
+}
+
+.head
+{
+	font-family:"Fantasy";
+	font-size:40px;
+	color:#f2f3f4;
+	margin-left: 35%;
+}
+#banner
+{
+	width:99.5%;
+	height:100px;
+	border:3px solid #f2f3f4;
+	background-color:rgba(0,0,0,0.1);
+}
+.clg {
+	background-image: url(images/1.png);
+	font-size:16px;
+	color:#FF0;
+}
+#wrapper
+{
+	width:60%;
+	border-radius:10px;
+	border:1px solid #f2f3f4;
+	background-color:rgba(0,0,0,0.5);
+}
+.SubHead
+{
+	font-family:"Fantasy";
+	color:#f2f3f4;
+	font-size:20px;
+}
+.labels
+{
+	font-family:"Trebuchet MS";
+	font-size:16px;
+	color:#FFFFFF;
+}
+.fields
+{
+	font-family:"Trebuchet MS";
+	font-size:14px;
+	color:#4b6566;
+	border-radius:5px;
+	padding:4px 6px;
+	border:1px solid #f2f3f4;
+	background-color:rgba(0,0,0,0.1);
+}
+
+.table
+{
+	border-radius:10px;
+	padding:0px 5px;
+	border:1px solid #f2f3f4;
+	background-color:transparent;
+}
+a.link:link{font-family:"Segoe UI";font-size:16px;color:#fff0f5;text-decoration:none;}
+a.link:active{font-family:"Segoe UI";font-size:16px;color:#fff0f5;text-decoration:none;}
+a.link:visited{font-family:"Segoe UI";font-size:16px;color:#fff0f5;text-decoration:none;}
+a.link:hover{font-family:"Segoe UI";font-size:16px;color:#a4f2f5;text-decoration:none;}
+.msg
+{
+	font-family:"Segoe UI";
+	color:#6F6;
+	font-size:13px;
+}
+a.Command:link{text-decoration:none;font-family:"Segoe UI";color:#f2f3f4;font-size:16px;padding:5px 7px;border:2px solid #f2f3f4;border-radius:5px;}
+a.Command:active{text-decoration:none;font-family:"Segoe UI";color:#f2f3f4;font-size:16px;padding:5px 7px;border:2px solid #f2f3f4;border-radius:5px;}
+a.Command:visited{text-decoration:none;font-family:"Segoe UI";color:#f2f3f4;font-size:16px;padding:5px 7px;border:2px solid #f2f3f4;border-radius:5px;}
+a.Command:hover{text-decoration:none;font-family:"Segoe UI";color:#a4f2f5;font-size:16px;padding:5px 7px;border:2px solid #a4f2f5;border-radius:5px;box-shadow:0px 0px 10px #FFFFFF;}
