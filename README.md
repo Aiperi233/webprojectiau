@@ -3,6 +3,8 @@ Library site, here students leave a request for what book they need, you need to
 The admin sends a list of books to the faculties in which the student is studying in order to analyze <br>
 whether this book is needed in training at this faculty. If this book is important, then the university should acquire it as soon as possible.
 ### Link to youtube: https://youtu.be/ykfOmvOJ-lU
+### List of data (can view admin) 
+![1239](https://user-images.githubusercontent.com/55020218/111915438-55d25d80-8a87-11eb-9d85-c76d72ec2f49.JPG)
 
 ### You can log in as an admin and register as a student and log in
 ![1](https://user-images.githubusercontent.com/55020218/111914111-c8403f00-8a81-11eb-8a38-5e8391cf5af6.JPG)
