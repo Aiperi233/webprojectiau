@@ -2,6 +2,8 @@
 Library site, here students leave a request for what book they need, you need to write the name of the author and the title of the book. <br>
 The admin sends a list of books to the faculties in which the student is studying in order to analyze <br>
 whether this book is needed in training at this faculty. If this book is important, then the university should acquire it as soon as possible.
+### Link to youtube: https://youtu.be/ykfOmvOJ-lU
+
 ### You can log in as an admin and register as a student and log in
 ![1](https://user-images.githubusercontent.com/55020218/111914111-c8403f00-8a81-11eb-8a38-5e8391cf5af6.JPG)
 ![3](https://user-images.githubusercontent.com/55020218/111914151-e017c300-8a81-11eb-9fb6-9887fea7c2b2.JPG)
