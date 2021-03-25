@@ -1,4 +1,10 @@
 # Project for WEB Programming project
+### Github link ✔
+### Main Page ✔
+### Rest ✔
+### Database ✔
+### YouTube Video ✔
+### Word Tutorial ✔
 Library site, here students leave a request for what book they need, you need to write the name of the author and the title of the book. <br>
 The admin sends a list of books to the faculties in which the student is studying in order to analyze <br>
 whether this book is needed in training at this faculty. If this book is important, then the university should acquire it as soon as possible.
